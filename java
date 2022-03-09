@@ -1,6 +1,6 @@
 
-public class alphon{
-public static void main (string [] arg){
+public class java {
+public static void main (String [] arg){
 systhem.out.print("hello ,word") ;
  }
 }
