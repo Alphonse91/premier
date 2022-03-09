@@ -1,6 +1,6 @@
 
 public class java {
 public static void main (String [] arg){
-System.out.println("hello ,word") ;
+System.out.print ("hello ,word") ;
  }
 }
