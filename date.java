@@ -14,7 +14,7 @@ class date{
 
   }
 System.out.println ( " aujourd hui est le : " + jour );
-System.out.println ( " nous somme aussi au " + call.getMonth[3] +" mois dde l annee" );
+System.out.println ( " nous somme aussi au " + call.getMonth(getMonth [3]) +" mois de l annee" );
 
  }
 }
