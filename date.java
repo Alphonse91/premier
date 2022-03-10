@@ -1,5 +1,5 @@
 import java.util.Date;
-class uneDate{
+class date{
   void  main (String[] args){
    Date call = new Date();
    String jour=" ";
