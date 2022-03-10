@@ -1,6 +1,6 @@
 import java.util.Date;
 class date{
-  void  main (String[] args){
+  public static void main(String[] args){
    Date call = new Date();
    String jour=" ";
    switch(call.getDay()){
