@@ -13,7 +13,7 @@ class date{
    case 6 : jour= " dimanche " ; break ;
 
   }
-System.out.println ( " aujourd hui est le : " + jour );
+System.out.println ( " aujourd hui est le : " + jour ) ;
 System.out.println ( " nous somme aussi au " + call.getMonth() +" mois de l annee" );
 
  }
